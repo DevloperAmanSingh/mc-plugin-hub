@@ -21,17 +21,14 @@ Welcome to our comprehensive list of essential Minecraft server plugins, curated
 
 Ensure fair play and protect your server from cheaters with these robust anti-cheat plugins.
 
-- **[NoCheatPlus](https://www.spigotmc.org/resources/nocheatplus.26/)**: Detects and prevents common cheats and hacks.
-- **[AAC (Advanced Anti Cheat)](https://www.spigotmc.org/resources/aac-advanced-anti-cheat-hack-kill-aura-blocker.6442/)**: Comprehensive anti-cheat solution with customizable checks.
-- **[AntiAura](https://www.spigotmc.org/resources/antiaura-advanced-anti-cheat-anti-hack-1-7-10-1-16-5.1368/)**: Detects a wide range of hacks and cheats.
+- **[Vulcan](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-20-6.83626/)**: Advanced anti-cheat plugin that detects and prevents a wide variety of hacks and cheats. Vulcan is optimized for Java players and offers comprehensive cheat detection capabilities to maintain fair gameplay on your server.
 
 ## 🎁 Server Crates
 
 Add exciting crate systems to reward your players with these plugins.
 
-- **[CratesReloaded](https://www.spigotmc.org/resources/cratesreloaded.17599/)**: Fully customizable crate plugin with animations and effects.
+- **[CratesReloaded](https://www.spigotmc.org/resources/excellentcrates-%E2%AD%90-best-free-crates-plugin.48732/)**: Fully customizable crate plugin with animations, effects, and much more.Configure rewards and setttings via gui.
 - **[Crazy Crates](https://www.spigotmc.org/resources/crazy-crates.17599/)**: Offers a variety of crate types and reward configurations.
-- **[GoldenCrates](https://www.spigotmc.org/resources/goldencrates-advanced-custom-crates.48732/)**: Advanced crates with a user-friendly interface and rich features.
 
 ## 🏅 Server Minigames
 
@@ -47,7 +44,6 @@ Manage your server's economy efficiently with these powerful plugins.
 
 - **[EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)**: Provides essential commands and economy features for your server.
 - **[Vault](https://www.spigotmc.org/resources/vault.34315/)**: Manages various economy and permission plugins.
-- **[Gringotts](https://www.spigotmc.org/resources/gringotts.42071/)**: Item-based economy plugin with physical currency.
 
 ## 🗝️ Permission Management
 
@@ -55,7 +51,6 @@ Handle player permissions and ranks seamlessly with these plugins.
 
 - **[LuckPerms](https://www.spigotmc.org/resources/luckperms.28140/)**: Advanced permissions management with a web interface and extensive features.
 - **[PermissionsEx](https://www.spigotmc.org/resources/permissionsex.15060/)**: Powerful and easy-to-use permissions plugin.
-- **[GroupManager](https://www.spigotmc.org/resources/groupmanager.38875/)**: Simplified permissions management system.
 
 ## 🌍 World Management
 
@@ -69,7 +64,6 @@ Control and manage your server worlds with these essential plugins.
 
 Enhance your server's communication with these chat and messaging plugins.
 
-- **[VentureChat](https://www.spigotmc.org/resources/venturechat.771/)**: Feature-rich chat plugin with various customization options.
 - **[DiscordSRV](https://www.spigotmc.org/resources/discordsrv.18494/)**: Connects your Minecraft server chat with Discord channels.
 - **[ChatControl](https://www.spigotmc.org/resources/chatcontrol.271/)**: Moderation and formatting plugin for in-game chat.
 
@@ -77,9 +71,9 @@ Enhance your server's communication with these chat and messaging plugins.
 
 Reward and rank your players with these management plugins.
 
-- **[Autorank](https://www.spigotmc.org/resources/autorank.3239/)**: Automatically promotes players based on playtime or other criteria.
+- **[NuVotifier](https://www.spigotmc.org/resources/nuvotifier.13449/)**: Enables vote listener support for various voting sites, allowing you to reward players for voting.
+- **[PinataParty](https://www.spigotmc.org/resources/autorank.3239/)**: Automatically detects vote and rewards player. Customise reward and spawn pinata after reaching certain vote target and much more.
 - **[VotingPlugin](https://www.spigotmc.org/resources/votingplugin.15358/)**: Rewards players for voting for your server on Minecraft server lists.
-- **[AdvancedBan](https://www.spigotmc.org/resources/advancedban.8695/)**: Comprehensive punishment plugin for managing bans and warnings.
 
 ## 🛡️ Protection and Security
 
@@ -88,6 +82,7 @@ Protect your server and manage player access with these plugins.
 - **[CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)**: Block logging and rollback tool to protect against griefing.
 - **[LockettePro](https://www.spigotmc.org/resources/lockettepro.20427/)**: Protect chests, doors, and other containers with signs.
 - **[LoginSecurity](https://www.spigotmc.org/resources/loginsecurity.19362/)**: Adds password protection to player accounts.
+- **[AdvancedBan](https://www.spigotmc.org/resources/advancedban.8695/)**: Comprehensive punishment plugin for managing bans and warnings.
 
 ## 🌌 Teleportation and Portals
 
@@ -96,6 +91,13 @@ Add advanced teleportation features with these plugins.
 - **[EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)**: Includes teleportation commands and warp management.
 - **[AdvancedPortals](https://www.spigotmc.org/resources/advanced-portals.14356/)**: Create custom portals for teleporting players.
 - **[RandomTeleport](https://www.spigotmc.org/resources/randomteleport.20521/)**: Randomly teleport players within specified regions.
+
+## 📦 Resource Pack and Model Manager
+
+Enhance your server's visual experience with custom textures and models using these plugins:
+
+- **[ItemsAdder](https://www.spigotmc.org/resources/itemsadder-2-0-create-your-own-items-blocks.78110/)**: Allows you to create custom items, blocks, and weapons with custom textures and attributes.
+- **[Oraxen](https://www.spigotmc.org/resources/oraxen-1-8-x-1-18-x.80847/)**: Provides a framework for creating custom items, blocks, and tools with custom models, textures, and behaviors.
 
 ## 🔧 Miscellaneous
 
@@ -114,3 +116,4 @@ We welcome contributions to this list! If you have a plugin you think should be 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
+**Note:** We are not promoting plugins or engaging in any form of advertisement. The plugins listed here have been thoroughly tested and have demonstrated the best performance for enhancing Minecraft server gameplay
