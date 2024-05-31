@@ -27,7 +27,7 @@ Ensure fair play and protect your server from cheaters with these robust anti-ch
 
 Add exciting crate systems to reward your players with these plugins.
 
-- **[CratesReloaded](https://www.spigotmc.org/resources/excellentcrates-%E2%AD%90-best-free-crates-plugin.48732/)**: Fully customizable crate plugin with animations, effects, and much more.Configure rewards and setttings via gui.
+- **[Excellent Crates](https://www.spigotmc.org/resources/excellentcrates-%E2%AD%90-best-free-crates-plugin.48732/)**: Fully customizable crate plugin with animations, effects, and much more.Configure rewards and setttings via gui.
 - **[Crazy Crates](https://www.spigotmc.org/resources/crazy-crates.17599/)**: Offers a variety of crate types and reward configurations.
 
 ## 🏅 Server Minigames
@@ -42,14 +42,14 @@ Bring fun and engagement to your server with these thrilling minigame plugins.
 
 Manage your server's economy efficiently with these powerful plugins.
 
-- **[EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)**: Provides essential commands and economy features for your server.
-- **[Vault](https://www.spigotmc.org/resources/vault.34315/)**: Manages various economy and permission plugins.
+- **[EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)**: Provides essential commands and economy features for your server. (Recommended)
+- **[Vault](https://www.spigotmc.org/resources/vault.34315/)**: Manages various economy and permission plugins. (Recommended)
 
 ## 🗝️ Permission Management
 
 Handle player permissions and ranks seamlessly with these plugins.
 
-- **[LuckPerms](https://www.spigotmc.org/resources/luckperms.28140/)**: Advanced permissions management with a web interface and extensive features.
+- **[LuckPerms](https://www.spigotmc.org/resources/luckperms.28140/)**: Advanced permissions management with a web interface and extensive features. (Recommended)
 - **[PermissionsEx](https://www.spigotmc.org/resources/permissionsex.15060/)**: Powerful and easy-to-use permissions plugin.
 
 ## 🌍 World Management
@@ -71,15 +71,15 @@ Enhance your server's communication with these chat and messaging plugins.
 
 Reward and rank your players with these management plugins.
 
-- **[NuVotifier](https://www.spigotmc.org/resources/nuvotifier.13449/)**: Enables vote listener support for various voting sites, allowing you to reward players for voting.
-- **[PinataParty](https://www.spigotmc.org/resources/autorank.3239/)**: Automatically detects vote and rewards player. Customise reward and spawn pinata after reaching certain vote target and much more.
-- **[VotingPlugin](https://www.spigotmc.org/resources/votingplugin.15358/)**: Rewards players for voting for your server on Minecraft server lists.
+- **[NuVotifier](https://www.spigotmc.org/resources/nuvotifier.13449/)**: Enables vote listener support for various voting sites, allowing you to reward players for voting. (Recommended)
+- **[PinataParty](https://www.spigotmc.org/resources/autorank.3239/)**: Automatically detects vote and rewards player. Customise reward and spawn pinata after reaching certain vote target and much more. 
+- **[VotingPlugin](https://www.spigotmc.org/resources/votingplugin.15358/)**: Rewards players for voting for your server on Minecraft server lists. (Recommended)
 
 ## 🛡️ Protection and Security
 
 Protect your server and manage player access with these plugins.
 
-- **[CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)**: Block logging and rollback tool to protect against griefing.
+- **[CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/)**: Block logging and rollback tool to protect against griefing. (Recommended)
 - **[LockettePro](https://www.spigotmc.org/resources/lockettepro.20427/)**: Protect chests, doors, and other containers with signs.
 - **[LoginSecurity](https://www.spigotmc.org/resources/loginsecurity.19362/)**: Adds password protection to player accounts.
 - **[AdvancedBan](https://www.spigotmc.org/resources/advancedban.8695/)**: Comprehensive punishment plugin for managing bans and warnings.
@@ -88,7 +88,7 @@ Protect your server and manage player access with these plugins.
 
 Add advanced teleportation features with these plugins.
 
-- **[EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)**: Includes teleportation commands and warp management.
+- **[EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)**: Includes teleportation commands and warp management. (Recommended)
 - **[AdvancedPortals](https://www.spigotmc.org/resources/advanced-portals.14356/)**: Create custom portals for teleporting players.
 - **[RandomTeleport](https://www.spigotmc.org/resources/randomteleport.20521/)**: Randomly teleport players within specified regions.
 
